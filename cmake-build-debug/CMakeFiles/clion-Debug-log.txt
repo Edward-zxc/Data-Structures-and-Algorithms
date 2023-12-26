@@ -1,8 +1,8 @@
 D:\SoftWare\Toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/SoftWare/Toolbox/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\Course\DataStructure-C\Labs -B D:\Course\DataStructure-C\Labs\cmake-build-debug
 CMake Error: Could not find cmake module file: CMakeDetermineandCompiler.cmake
-CMake Error: Could not find cmake module file: D:/Course/DataStructure-C/Labs/cmake-build-debug/CMakeFiles/3.27.0/CMakeandCompiler.cmake
+CMake Error: Could not find cmake module file: D:/Course/DataStructure-C/Labs/cmake-build-debug/CMakeFiles/3.27.8/CMakeandCompiler.cmake
 CMake Error: Could not find cmake module file: CMakeDetermineAlgorithmsCompiler.cmake
-CMake Error: Could not find cmake module file: D:/Course/DataStructure-C/Labs/cmake-build-debug/CMakeFiles/3.27.0/CMakeAlgorithmsCompiler.cmake
+CMake Error: Could not find cmake module file: D:/Course/DataStructure-C/Labs/cmake-build-debug/CMakeFiles/3.27.8/CMakeAlgorithmsCompiler.cmake
 -- The C compiler identification is GNU 13.1.0
 CMake Error at CMakeLists.txt:2 (project):
   No CMAKE_and_COMPILER could be found.
